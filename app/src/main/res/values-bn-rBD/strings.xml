@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginApp_4</string>
+    <string name="createnewaccount" translatable="false">নতুন একাউন্ট</string>
+    <string name="username" translatable="false">ইউজারনেম</string>
+    <string name="e_mail" translatable="false">ইমেইল</string>
+    <string name="new_password" translatable="false">পাসওয়ার্ড</string>
+    <string name="user_login" translatable="false">গ্রাহক লগইন</string>
+    <string name="password" translatable="false">পাসওয়ার্ড</string>
+    <string name="login" translatable="false">লগইন</string>
+    <string name="create_a_new_account" translatable="false">নতুন একাউন্ট খুলুন</string>
+</resources>
